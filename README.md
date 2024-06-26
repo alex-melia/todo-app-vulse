@@ -113,8 +113,8 @@ The frontend should be running on port 3000 (Next.js default) and the backend on
 ### Items
 
 - **POST /api/items**: Create an item
-- **PUT /api/items/:itemId/complete**: Mark an item as complete
-- **PUT /api/items/:itemId/incomplete**: Mark an item as incomplete
+- **PATCH /api/items/:itemId/complete**: Mark an item as complete
+- **PATCH /api/items/:itemId/incomplete**: Mark an item as incomplete
 - **DELETE /api/items/:itemId**: Delete an item
 
 ## Environment Variables
