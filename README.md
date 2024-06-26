@@ -4,8 +4,14 @@
 
 ### Prerequisites
 
-- Node.js
-- MySQL
+- ### Node.js
+Make sure you have Node.js installed on your machine. You can download it from the [official Node.js website](https://nodejs.org/).
+
+- ### MySQL Server
+Install MySQL Server on your machine. You can download it from the [official MySQL website](https://dev.mysql.com/downloads/mysql/).
+
+- ### MySQL Workbench
+Install MySQL Workbench, a graphical tool for working with MySQL databases. It can be downloaded from the [official MySQL Workbench website](https://dev.mysql.com/downloads/workbench/).
 
 ### Installation
 
